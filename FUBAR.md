@@ -3,3 +3,5 @@ This is what Bob & Carol did on Bob’s computer when working on the first featu
 What is the best sounding furniture?
 
 Chair.
+
+** this is a note from TA ** 
