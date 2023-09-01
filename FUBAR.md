@@ -6,4 +6,10 @@ What is the best sounding furniture?
 
 Chair.
 
+
 * delete and add note * 
+
+
+
+here is a note  B and C
+
